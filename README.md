@@ -1,8 +1,7 @@
 # LGM-VIP-WEB-DEVELOPMENT-TASK-1
 
-#INTERMEDIATE LEVEL TASK
+BEGINNER LEVEL TASK
 
-CREATE A REGISTRATION FORM WHOSE DATA DISPLAY IN SAME PAGE  USING HTML, CSS & JS OR REACT JS
+CREATE A TO DO LIST WEBAPP
 
-
-This task is to determine your understanding  of HTML, CSS and Javascript OR ReactJS skills along.
+This task is to determine your understanding  of HTML, CSS and Javascript OR ReactJS  skills along.
